@@ -39,6 +39,7 @@ Repository Contents
 
 Pavneet_Thind_Credit_Card_Default_Prediction.ipynb: Google Colab notebook that includes exploratory data analysis, feature engineering, model training, and evaluation.
 credit-card-default-prediction.pdf: Presentation summarizing the problem, approach, results, and key takeaways.
+
 How to Run
 
 Clone the repository:
